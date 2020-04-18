@@ -1,0 +1,24 @@
+body{
+    background: darkcyan;
+}
+.white-keys kbd {
+    display: inline-block;
+    border: solid;
+    background: white;
+    text-align: center;
+    padding: 20px;
+    height: 90px;
+}
+.black-keys kbd {
+    background: black;
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    height: 60px;
+    position: relative;
+    top: 100px;
+}
+div {
+    width: max-content;
+    margin: 20% auto;
+}
